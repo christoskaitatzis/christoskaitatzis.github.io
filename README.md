@@ -34,6 +34,8 @@ https://www.facebook.com/profile.php?id=100009443509168
 GitHub
 https://github.com/ChrisKaitatzis
 
+email: xrkaitatzis@gmail.com
+
 
 
 
