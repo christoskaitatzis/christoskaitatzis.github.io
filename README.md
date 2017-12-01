@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+#Apps
 
-You can use the [editor on GitHub](https://github.com/ChrisKaitatzis/chriskaitatzis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Parkspace
+https://play.google.com/store/apps/details?id=tech.crossroads.parkspace
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CityScope
+https://play.google.com/store/apps/details?id=gr.crossroads.cityscope
 
-### Markdown
+PhoneCast
+https://play.google.com/store/apps/details?id=gr.crossroads.phonecast
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+#Websites
 
-# Header 1
-## Header 2
-### Header 3
+Crossroads Applications
+https://www.crossroadsapps.tech
 
-- Bulleted
-- List
+Parkspace App
+https://www.parkspace.tech
 
-1. Numbered
-2. List
+Turnand Peripherals 
+https://www.turnand.com
+https://prelaunch.turnand.com
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+#Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+LinkedIn
+https://www.linkedin.com/in/christos-kaitatzis/
 
-### Jekyll Themes
+Facebook
+https://www.facebook.com/profile.php?id=100009443509168
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChrisKaitatzis/chriskaitatzis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+GitHub
+https://github.com/ChrisKaitatzis
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
