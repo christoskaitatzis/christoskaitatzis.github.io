@@ -12,6 +12,9 @@ PhoneCast
 
 https://play.google.com/store/apps/details?id=gr.crossroads.phonecast
 
+Turnand Emulator 
+work in progress
+
 
 #Websites
 
