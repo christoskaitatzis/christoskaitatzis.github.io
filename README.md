@@ -37,7 +37,7 @@ LinkedIn :  https://www.linkedin.com/in/christos-kaitatzis/
 
 Facebook :  https://www.facebook.com/profile.php?id=100009443509168
 
-GitHub :  https://github.com/ChrisKaitatzis
+GitHub :  https://github.com/christos-kaitatzis
 
 email:  xrkaitatzis@gmail.com
 
