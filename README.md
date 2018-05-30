@@ -23,23 +23,26 @@ https://prelaunch.turnand.com
 
 Parkspace App
 
-https://www.parkspace.tech
+http://www.parkspace.tech
 
 Crossroads Applications
 
+http:www.crossroadsapplications.tech
 https://bit.do/CrossroadsApps
 https://play.google.com/store/apps/developer?id=Crossroads%20Applications
 
 
 #Contact
 
+email :  xrkaitatzis@gmail.com 
+
 LinkedIn :  https://www.linkedin.com/in/christos-kaitatzis/
 
 Facebook :  https://www.facebook.com/profile.php?id=100009443509168
 
-GitHub :  https://github.com/christos-kaitatzis
+GitHub :  https://github.com/christoskaitatzis
 
-email:  xrkaitatzis@gmail.com
+
 
 
 
